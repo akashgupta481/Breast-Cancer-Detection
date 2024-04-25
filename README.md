@@ -39,3 +39,27 @@ Submit a pull request
 Contact
 
 For any inquiries or feedback, please contact us.
+
+## Screenshot Preview 
+
+## Home page
+<img width="1440" alt="Screenshot 2024-04-25 at 11 49 11 PM" src="https://github.com/akashgupta481/Breast-Cancer-Detection/assets/126176668/32ed617e-a456-4f73-9270-d1de904efccc">
+
+## Detect Page | Before
+<img width="1440" alt="Screenshot 2024-04-25 at 11 49 18 PM" src="https://github.com/akashgupta481/Breast-Cancer-Detection/assets/126176668/6dfea63b-8d8e-453f-ba73-a00e0bf3e868">
+
+## Detect Page | After
+<img width="1440" alt="Screenshot 2024-04-25 at 11 49 35 PM" src="https://github.com/akashgupta481/Breast-Cancer-Detection/assets/126176668/d3fdce07-ddd9-435c-810e-86df70186428">
+
+
+
+
+
+
+
+
+
+
+
+
+
